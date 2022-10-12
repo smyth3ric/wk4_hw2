@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://vmwanvpu:X3R6hUDX5RQIJE2H7BoSYZxUfkxjl4va@peanut.db.elephantsql.com/vmwanvpu",
+            "name": "movie_theater"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://vmwanvpu:X3R6hUDX5RQIJE2H7BoSYZxUfkxjl4va@peanut.db.elephantsql.com/vmwanvpu",
+            "name": "movie_theater"
+        }
+    ]
+}
